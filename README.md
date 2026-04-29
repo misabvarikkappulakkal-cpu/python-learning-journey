@@ -1,95 +1,59 @@
-# 🐍 Python Learning Journey
+# 10-Day Learning Roadmap
 
-Hey there!
+## Days 3-12
+- **Day 3**: Introduction to Functions
+- **Day 4**: Data Structures
+- **Day 5**: OOP Concepts
+- **Day 6**: Exception Handling
+- **Day 7**: File Handling
+- **Day 8**: Intro to Libraries
+- **Day 9**: Web Development Basics
+- **Day 10**: Final Project Planning
+- **Day 11**: Implementing the Final Project
+- **Day 12**: Presentation and Review
 
-This repository documents my step-by-step journey of learning Python.  
-I'm building consistency, understanding core concepts, and preparing for future goals in cloud engineering ☁️
+## Mini-Projects
+- **Calculator App**: [Placeholder for separate repo]
+- **Grade Management System**: [Placeholder for separate repo]
+- **Todo App**: [Placeholder for separate repo]
 
----
+## Progress Tracker Table
+| Day | Topic Covered | Completed |
+|-----|---------------|-----------|
+| 1   | Basics of Python | ✅ |
+| 2   | Control Structures | ✅ |
+| 3   | Functions | ⏳ |
+| 4   | Data Structures | ⏳ |
+| 5   | OOP Concepts | ⏳ |
+| 6   | Exception Handling | ⏳ |
+| 7   | File Handling | ⏳ |
+| 8   | Libraries | ⏳ |
+| 9   | Web Dev | ⏳ |
+| 10  | Final Project Planning | ⏳ |
+| 11  | Implementing Project | ⏳ |
+| 12  | Presentation | ⏳ |
 
-## 📋 Table of Contents
-- [Progress Log](#-progress-log)
-- [Goals](#-goals)
-- [Rules](#-rules-i-follow)
-- [Learning Topics](#-learning-topics)
-- [Upcoming Topics](#-upcoming-topics)
+## Professional Structure
+### Setup Instructions
+1. Clone the repository: `git clone [repo-url]`
+2. Navigate into the project directory: `cd [directory-name]`
+3. Install the requirements: `pip install -r requirements.txt`
 
----
+## Goals and Rules
+- Set achievable learning goals.
+- Practice daily and keep track of progress.
+- Focus on understanding concepts before implementations.
 
-## 📅 Progress Log
+## Learning Topics Organized
+- Basics of Python
+- Control Structures
+- Functions
+- Data Structures
+- OOP Concepts
+- Exception Handling
+- File Handling
+- Libraries
+- Web Development Basics
+- Final Project Implementation
 
-### ✅ Day 1: Print Statements & Output
-**File:** `basics/day1_print_statements.py`
-- **Concept:** Understanding the `print()` function
-- **Key Learnings:**
-  - `print()` function outputs text to the console
-  - Can print multiple values separated by commas
-  - Strings are enclosed in quotes (single or double)
-- **Mini Challenge:** Print a welcome message to the console
-
-### ✅ Day 2: Variables & String Formatting
-**File:** `basics/day2_variables.py`
-- **Concept:** Storing and manipulating data using variables
-- **Key Learnings:**
-  - Variables store data values
-  - f-strings (formatted string literals) allow embedding expressions
-  - Variable naming conventions: lowercase, use underscores for multi-word names
-  - Python uses dynamic typing
-- **Mini Challenge:** Create a program that greets a user by name using variables
-
----
-
-## 🎯 Goals
-- Build strong Python fundamentals
-- Stay consistent every day (even small progress counts!)
-- Master core concepts before moving to advanced topics
-- Move towards cloud engineering (In Shaa Allah) ☁️
-
----
-
-## 📌 Rules I Follow
-- ✔️ Code every day (even small progress)
-- ✔️ Keep commits clean and meaningful
-- ✔️ Focus on understanding, not rushing
-- ✔️ Document key learnings for each day
-- ✔️ Write clean, commented code
-
----
-
-## 🚀 Learning Topics
-
-### Completed
-- [x] Print Statements (Day 1)
-- [x] Variables & String Formatting (Day 2)
-
-### In Progress / Upcoming
-- [ ] Loops (for, while)
-- [ ] Conditional Statements (if, else, elif)
-- [ ] Functions & Parameters
-- [ ] Lists & Dictionaries
-- [ ] File Handling
-- [ ] Mini Projects
-
----
-
-## 📊 Progress Tracker
-| Day | Topic | Status |
-|-----|-------|--------|
-| 1 | Print Statements | ✅ Complete |
-| 2 | Variables | ✅ Complete |
-| 3 | Loops | ⏳ Upcoming |
-| 4 | Conditionals | ⏳ Upcoming |
-| 5 | Functions | ⏳ Upcoming |
-
----
-
-## 💡 How to Use This Repo
-Each day's work is organized in the `basics/` folder with clear file naming: `day#_topic_name.py`
-- Read the comments in each file to understand the concepts
-- Run the scripts to see output
-- Try modifying the code to experiment with concepts
-
----
-
-**Last Updated:** 2026-04-29 04:33:53  
-**Current Streak:** 🔥 2 Days
+(Note: The files `day1.py` and `day2.py` will remain untouched.)
