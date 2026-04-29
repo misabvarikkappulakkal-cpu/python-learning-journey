@@ -1,0 +1,1 @@
+# Python Learning Journey Dependencies (empty for now - will add as we learn external libraries)
