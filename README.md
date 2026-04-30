@@ -2,28 +2,29 @@
 
 ## 📅 Learning Roadmap
 
-## 📅 Learning Roadmap
-
 | Day | Topic | Status |
 |-----|-------|--------|
 | 1 | Print Statements | ✅ |
 | 2 | Variables | ✅ |
 | 3 | Conditionals | ✅ |
-| 4 | Data Structures | ⏳ |
-| 5 | OOP Concepts | ⏳ |
-| 6 | Exception Handling | ⏳ |
-| 7 | File Handling | ⏳ |
-| 8 | Libraries | ⏳ |
-| 9 | Web Basics | ⏳ |
-| 10 | Project Planning | ⏳ |
+| 4 | Loops | ⏳ |
+| 5 | Data Structures | ⏳ |
+| 6 | OOP Concepts | ⏳ |
+| 7 | Exception Handling | ⏳ |
+| 8 | File Handling | ⏳ |
+| 9 | Libraries | ⏳ |
+| 10 | Web Basics | ⏳ |
 | 11 | Project Implementation | ⏳ |
 | 12 | Review & Presentation | ⏳ |
 
-## Mini-Projects
-- **Calculator App**: [Placeholder for separate repo]
-- **Grade Management System**: [Placeholder for separate repo]
-- **Todo App**: [Placeholder for separate repo]
-## Professional Structure
+---
+
+## 🛠️ Mini-Projects
+- Calculator App (CLI) – ⏳
+- Grade Management System – ⏳
+- Todo App – ⏳
+
+---
 
 ## 📚 Learning Scope
 
@@ -40,4 +41,3 @@ This journey covers the following core Python topics:
 - File Handling
 - Libraries
 - Basic Web Development
-
