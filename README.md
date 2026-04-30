@@ -1,59 +1,43 @@
-# 10-Day Learning Roadmap
+# Daily Learning Roadmap
 
-## Days 3-12
-- **Day 3**: Introduction to Functions
-- **Day 4**: Data Structures
-- **Day 5**: OOP Concepts
-- **Day 6**: Exception Handling
-- **Day 7**: File Handling
-- **Day 8**: Intro to Libraries
-- **Day 9**: Web Development Basics
-- **Day 10**: Final Project Planning
-- **Day 11**: Implementing the Final Project
-- **Day 12**: Presentation and Review
+## 📅 Learning Roadmap
+
+## 📅 Learning Roadmap
+
+| Day | Topic | Status |
+|-----|-------|--------|
+| 1 | Print Statements | ✅ |
+| 2 | Variables | ✅ |
+| 3 | Conditionals | ✅ |
+| 4 | Data Structures | ⏳ |
+| 5 | OOP Concepts | ⏳ |
+| 6 | Exception Handling | ⏳ |
+| 7 | File Handling | ⏳ |
+| 8 | Libraries | ⏳ |
+| 9 | Web Basics | ⏳ |
+| 10 | Project Planning | ⏳ |
+| 11 | Project Implementation | ⏳ |
+| 12 | Review & Presentation | ⏳ |
 
 ## Mini-Projects
 - **Calculator App**: [Placeholder for separate repo]
 - **Grade Management System**: [Placeholder for separate repo]
 - **Todo App**: [Placeholder for separate repo]
-
-## Progress Tracker Table
-| Day | Topic Covered | Completed |
-|-----|---------------|-----------|
-| 1   | Basics of Python | ✅ |
-| 2   | Control Structures | ✅ |
-| 3   | Functions | ⏳ |
-| 4   | Data Structures | ⏳ |
-| 5   | OOP Concepts | ⏳ |
-| 6   | Exception Handling | ⏳ |
-| 7   | File Handling | ⏳ |
-| 8   | Libraries | ⏳ |
-| 9   | Web Dev | ⏳ |
-| 10  | Final Project Planning | ⏳ |
-| 11  | Implementing Project | ⏳ |
-| 12  | Presentation | ⏳ |
-
 ## Professional Structure
-### Setup Instructions
-1. Clone the repository: `git clone [repo-url]`
-2. Navigate into the project directory: `cd [directory-name]`
-3. Install the requirements: `pip install -r requirements.txt`
 
-## Goals and Rules
-- Set achievable learning goals.
-- Practice daily and keep track of progress.
-- Focus on understanding concepts before implementations.
+## 📚 Learning Scope
 
-## Learning Topics Organized
-- Basics of Python
-- Control Structures
+This journey covers the following core Python topics:
+
+- Print Statements
+- Variables
+- Conditionals
+- Loops
 - Functions
 - Data Structures
 - OOP Concepts
 - Exception Handling
 - File Handling
 - Libraries
-- Web Development Basics
-- Final Project Implementation
+- Basic Web Development
 
-(Note: The files `day1.py` and `day2.py` will remain untouched.)
