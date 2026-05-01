@@ -8,14 +8,15 @@
 | 2 | Variables | ✅ |
 | 3 | Conditionals | ✅ |
 | 4 | Loops | ✅ |
-| 5 | Data Structures | ⏳ |
-| 6 | OOP Concepts | ⏳ |
-| 7 | Exception Handling | ⏳ |
-| 8 | File Handling | ⏳ |
-| 9 | Libraries | ⏳ |
-| 10 | Web Basics | ⏳ |
-| 11 | Project Implementation | ⏳ |
-| 12 | Review & Presentation | ⏳ |
+| 5 | Variables | ✅ |
+| 6 | Data Structures | ⏳ |
+| 7 | OOP Concepts | ⏳ |
+| 8 | Exception Handling | ⏳ |
+| 9 | File Handling | ⏳ |
+| 10 | Libraries | ⏳ |
+| 11 | Web Basics | ⏳ |
+| 12 | Project Implementation | ⏳ |
+| 13 | Review & Presentation | ⏳ |
 
 ---
 
