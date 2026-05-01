@@ -7,7 +7,7 @@
 | 1 | Print Statements | ✅ |
 | 2 | Variables | ✅ |
 | 3 | Conditionals | ✅ |
-| 4 | Loops | ⏳ |
+| 4 | Loops | ✅ |
 | 5 | Data Structures | ⏳ |
 | 6 | OOP Concepts | ⏳ |
 | 7 | Exception Handling | ⏳ |
