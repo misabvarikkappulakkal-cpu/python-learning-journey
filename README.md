@@ -8,8 +8,8 @@
 | 2 | Variables | ✅ |
 | 3 | Conditionals | ✅ |
 | 4 | Loops | ✅ |
-| 5 | Functions | ⏳ |
-| 6 | Data Structures | ⏳ |
+| 5 | Functions | ✅ |
+| 6 | Data Structures | ✅ |
 | 7 | OOP Concepts | ⏳ |
 | 8 | Exception Handling | ⏳ |
 | 9 | File Handling | ⏳ |
