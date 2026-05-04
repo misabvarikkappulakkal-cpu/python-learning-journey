@@ -10,7 +10,7 @@
 | 4 | Loops | ✅ |
 | 5 | Functions | ✅ |
 | 6 | Data Structures | ✅ |
-| 7 | OOP Concepts | ⏳ |
+| 7 | OOP Concepts | ✅ |
 | 8 | Exception Handling | ⏳ |
 | 9 | File Handling | ⏳ |
 | 10 | Libraries | ⏳ |
