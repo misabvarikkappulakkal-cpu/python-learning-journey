@@ -15,9 +15,9 @@ The goal of this folder is to:
 
 ---
 
-## 📌 Projects Planned / In Progress
+## 📌 Projects In Progress
 
-### 1. 🧮 Calculator (CLI)
+### 1. 🧮 Calculator (CLI) - Completed ✅
 - Basic arithmetic operations
 - User input handling
 - Loop-based menu system
