@@ -12,7 +12,7 @@
 | 6 | Data Structures | ✅ |
 | 7 | OOP Concepts | ✅ |
 | 8 | Exception Handling | ✅ |
-| 9 | File Handling | ⏳ |
+| 9 | File Handling | ✅ |
 | 10 | Libraries | ⏳ |
 | 11 | Web Basics | ⏳ |
 | 12 | Project Implementation | ⏳ |
