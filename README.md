@@ -13,10 +13,16 @@
 | 7 | OOP Concepts | ✅ |
 | 8 | Exception Handling | ✅ |
 | 9 | File Handling | ✅ |
-| 10 | Libraries | ⏳ |
-| 11 | Web Basics | ⏳ |
-| 12 | Project Implementation | ⏳ |
-| 13 | Review & Presentation | ⏳ |
+| 10 | Operators | ⏳ |
+| 11 | Comprehensions | ⏳ |
+| 12 | Strings Deep Dive | ⏳ |
+| 13 | Modules & Imports | ⏳ |
+| 14 | Virtual Environment | ⏳ |
+| 15 | Libraries Basics | ⏳ |
+| 16 | Debugging | ⏳ |
+| 17 | Web Basics | ⏳ |
+| 18 | Project Implementation | ⏳ |
+| 19 | Review & Presentation | ⏳ |
 
 ---
 
@@ -32,13 +38,19 @@
 This journey covers the following core Python topics:
 
 - Print Statements
-- Variables
+- Variables & Data Types
+- Operators
 - Conditionals
 - Loops
 - Functions
-- Data Structures
-- OOP Concepts
+- Data Structures (List, Tuple, Set, Dictionary)
+- Comprehensions (List/Dict)
+- Strings Deep Dive
+- Object-Oriented Programming (OOP)
 - Exception Handling
 - File Handling
-- Libraries
-- Basic Web Development
+- Modules & Imports
+- Virtual Environments (venv)
+- Libraries (Built-in & Intro to External)
+- Debugging & Error Handling Mindset
+- Basic Web Concepts (HTTP, APIs)
