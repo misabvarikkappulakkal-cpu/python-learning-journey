@@ -28,7 +28,7 @@
 
 ## 🛠️ Mini-Projects
 - Calculator App (CLI) – ✅
-- Grade Management System – ⏳
+- Grade Management System – ✅
 - Todo App – ⏳
 
 ---
