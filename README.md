@@ -14,7 +14,7 @@
 | 8 | Exception Handling | ✅ |
 | 9 | File Handling | ✅ |
 | 10 | Operators | ✅ |
-| 11 | Comprehensions | ⏳ |
+| 11 | Comprehensions | ✅ |
 | 12 | Strings Deep Dive | ⏳ |
 | 13 | Modules & Imports | ⏳ |
 | 14 | Virtual Environment | ⏳ |
