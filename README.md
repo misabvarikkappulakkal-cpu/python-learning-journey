@@ -13,7 +13,7 @@
 | 7 | OOP Concepts | ✅ |
 | 8 | Exception Handling | ✅ |
 | 9 | File Handling | ✅ |
-| 10 | Operators | ⏳ |
+| 10 | Operators | ✅ |
 | 11 | Comprehensions | ⏳ |
 | 12 | Strings Deep Dive | ⏳ |
 | 13 | Modules & Imports | ⏳ |
