@@ -15,7 +15,7 @@
 | 9 | File Handling | ✅ |
 | 10 | Operators | ✅ |
 | 11 | Comprehensions | ✅ |
-| 12 | Strings Deep Dive | ⏳ |
+| 12 | Strings Deep Dive | ✅ |
 | 13 | Modules & Imports | ⏳ |
 | 14 | Virtual Environment | ⏳ |
 | 15 | Libraries Basics | ⏳ |
