@@ -18,7 +18,7 @@
 | 12 | Strings Deep Dive | ✅ |
 | 13 | Modules & Imports | ✅ |
 | 14 | Virtual Environment | ✅ |
-| 15 | Libraries Basics | ⏳ |
+| 15 | Libraries Basics | ✅ |
 | 16 | Debugging | ⏳ |
 | 17 | Web Basics | ⏳ |
 | 18 | Project Implementation | ⏳ |
