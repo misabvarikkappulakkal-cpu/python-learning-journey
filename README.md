@@ -21,7 +21,7 @@
 | 15 | Libraries Basics | ✅ |
 | 16 | Debugging | ✅ |
 | 17 | Web Basics | ✅ |
-| 18 | Project Implementation | ⏳ |
+| 18 | Project Implementation | ✅ |
 | 19 | Review & Presentation | ⏳ |
 
 ---
@@ -30,7 +30,7 @@
 - Calculator App (CLI) – ✅
 - Grade Management System – ✅
 - Todo App – ⏳
-
+- Day 18 Mini Project 'File Organizer' - ✅
 ---
 
 ## 📚 Learning Scope
