@@ -22,7 +22,7 @@
 | 16 | Debugging | ✅ |
 | 17 | Web Basics | ✅ |
 | 18 | Project Implementation | ✅ |
-| 19 | Review & Presentation | ⏳ |
+| >> | Review & Presentation | ✅ |
 
 ---
 
