@@ -29,7 +29,7 @@
 ## 🛠️ Mini-Projects
 - Calculator App (CLI) – ✅
 - Grade Management System – ✅
-- Todo App – ⏳
+- Todo App – ✅
 - Day 18 Mini Project 'File Organizer' - ✅
 ---
 
