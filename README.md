@@ -30,7 +30,14 @@
 - Calculator App (CLI) – ✅
 - Grade Management System – ✅
 - Todo App – ✅
-- Day 18 Mini Project 'File Organizer' - ✅
+- File Organizer - ✅
+- Disk Usage Analyzer - ⏳
+- Log Cleaner Script - ⏳
+- User Management Script - ⏳
+- Service Monitoring Script - ⏳
+- CPU & RAM Monitor Dashboard - ⏳
+- Linux Security Audit Script - ⏳
+- Automated Server Setup Script - ⏳
 ---
 
 ## 📚 Learning Scope
