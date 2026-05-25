@@ -31,13 +31,14 @@
 - Grade Management System – ✅
 - Todo App – ✅
 - File Organizer - ✅
-- Disk Usage Analyzer - ⏳
-- Log Cleaner Script - ⏳
-- User Management Script - ⏳
-- Service Monitoring Script - ⏳
-- CPU & RAM Monitor Dashboard - ⏳
-- Linux Security Audit Script - ⏳
-- Automated Server Setup Script - ⏳
+- Password Manager (CLI) – ⏳
+- Expense Tracker – ⏳
+- Quiz Application – ⏳
+- Student Database System – ⏳
+- Weather App – ⏳
+- File Encryption Tool – ⏳
+- Terminal Chat App – ⏳
+- Flask Portfolio Website – ⏳
 ---
 
 ## 📚 Learning Scope
