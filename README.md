@@ -31,7 +31,7 @@
 - Grade Management System – ✅
 - Todo App – ✅
 - File Organizer - ✅
-- Password Manager (CLI) – ⏳
+- Password Manager (CLI) – ✅
 - Expense Tracker – ⏳
 - Quiz Application – ⏳
 - Student Database System – ⏳
