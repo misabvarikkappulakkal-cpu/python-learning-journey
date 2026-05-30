@@ -32,7 +32,7 @@
 - Todo App – ✅
 - File Organizer - ✅
 - Password Manager (CLI) – ✅
-- Expense Tracker – ⏳
+- Expense Tracker – ✅
 - Quiz Application – ⏳
 - Student Database System – ⏳
 - Weather App – ⏳
