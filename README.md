@@ -33,7 +33,7 @@
 - File Organizer - ✅
 - Password Manager (CLI) – ✅
 - Expense Tracker – ✅
-- Quiz Application – ⏳
+- Quiz Application – ✅
 - Student Database System – ⏳
 - Weather App – ⏳
 - File Encryption Tool – ⏳
