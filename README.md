@@ -34,7 +34,7 @@
 - Password Manager (CLI) – ✅
 - Expense Tracker – ✅
 - Quiz Application – ✅
-- Student Database System – ⏳
+- Student Database System – ✅
 - Weather App – ⏳
 - File Encryption Tool – ⏳
 - Terminal Chat App – ⏳
