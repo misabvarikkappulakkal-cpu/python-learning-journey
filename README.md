@@ -35,7 +35,7 @@
 - Expense Tracker – ✅
 - Quiz Application – ✅
 - Student Database System – ✅
-- Weather App – ⏳
+- Weather App – ✅
 - File Encryption Tool – ⏳
 - Terminal Chat App – ⏳
 - Flask Portfolio Website – ⏳
