@@ -40,6 +40,13 @@
 - File Encryption Tool – ⏳
 - Terminal Chat App – ⏳
 - Flask Portfolio Website – ⏳
+- QR Code Generator – ⏳
+- URL Shortener – ⏳
+- PDF Merger Tool – ⏳
+- Image Converter Tool – ⏳
+- Log Analyzer Tool – ⏳
+- Typing Speed Tester – ⏳
+
 ---
 
 ## 📚 Learning Scope
