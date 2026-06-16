@@ -37,7 +37,7 @@
 - Student Database System – ✅
 - Weather App – ✅
 - CPU & RAM Monitor Dashboard - ✅
-- File Encryption Tool – ⏳
+- File Encryption Tool – ✅
 - Terminal Chat App – ⏳
 - Flask Portfolio Website – ⏳
 - QR Code Generator – ⏳
